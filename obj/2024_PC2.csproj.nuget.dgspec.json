@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jair_\\Downloads\\2024_PC2-main\\2024_PC2-main\\2024_PC2.csproj": {}
+    "C:\\Users\\jair_\\Downloads\\2024_PC2\\2024_PC2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jair_\\Downloads\\2024_PC2-main\\2024_PC2-main\\2024_PC2.csproj": {
+    "C:\\Users\\jair_\\Downloads\\2024_PC2\\2024_PC2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jair_\\Downloads\\2024_PC2-main\\2024_PC2-main\\2024_PC2.csproj",
+        "projectUniqueName": "C:\\Users\\jair_\\Downloads\\2024_PC2\\2024_PC2.csproj",
         "projectName": "2024_PC2",
-        "projectPath": "C:\\Users\\jair_\\Downloads\\2024_PC2-main\\2024_PC2-main\\2024_PC2.csproj",
+        "projectPath": "C:\\Users\\jair_\\Downloads\\2024_PC2\\2024_PC2.csproj",
         "packagesPath": "C:\\Users\\jair_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jair_\\Downloads\\2024_PC2-main\\2024_PC2-main\\obj\\",
+        "outputPath": "C:\\Users\\jair_\\Downloads\\2024_PC2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jair_\\AppData\\Roaming\\NuGet\\NuGet.Config"

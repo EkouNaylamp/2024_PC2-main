@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Seg2WC4pdtA=",
+  "dgSpecHash": "Gz7kAX7Kg5w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jair_\\Downloads\\2024_PC2-main\\2024_PC2-main\\2024_PC2.csproj",
+  "projectFilePath": "C:\\Users\\jair_\\Downloads\\2024_PC2\\2024_PC2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jair_\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\jair_\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

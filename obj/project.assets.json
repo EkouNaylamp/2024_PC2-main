@@ -2267,11 +2267,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jair_\\Downloads\\2024_PC2-main\\2024_PC2-main\\2024_PC2.csproj",
+      "projectUniqueName": "c:\\Users\\jair_\\Downloads\\2024_PC2\\2024_PC2.csproj",
       "projectName": "2024_PC2",
-      "projectPath": "C:\\Users\\jair_\\Downloads\\2024_PC2-main\\2024_PC2-main\\2024_PC2.csproj",
+      "projectPath": "c:\\Users\\jair_\\Downloads\\2024_PC2\\2024_PC2.csproj",
       "packagesPath": "C:\\Users\\jair_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jair_\\Downloads\\2024_PC2-main\\2024_PC2-main\\obj\\",
+      "outputPath": "c:\\Users\\jair_\\Downloads\\2024_PC2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jair_\\AppData\\Roaming\\NuGet\\NuGet.Config"
